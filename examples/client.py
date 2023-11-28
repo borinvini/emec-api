@@ -10,7 +10,7 @@ import aiohttp
 import pandas as pd
 from bs4 import BeautifulSoup
 
-from .utils import normalize_key
+from utils import normalize_key
 
 
 class Institution:

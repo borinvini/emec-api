@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import time
-from emec.api.client import Institution
+from client import Institution
 
 
 start = time.time()
